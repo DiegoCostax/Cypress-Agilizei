@@ -17,7 +17,6 @@ Nessa semana através desse projeto foi possível entender sobre:
 - Adicionar scripts com atalhos para execuções rápidas já configuradas
 - Interagir com LocalStorage para diminuir o tempo de execução da suite de testes
 - Cypress Dashboard
-- Github Actions para CI da suite de testes com o Github
 
 
 ## 💾 Como usar
